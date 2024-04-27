@@ -1,6 +1,7 @@
 package pe.edu.cibertec.WAEC2BeLuFerMau;
 
-//Nuevo comentario
+//nuevo comentario
+//comentario2
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
